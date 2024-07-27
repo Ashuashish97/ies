@@ -9,6 +9,7 @@ class emp{
 }
      void doWork(){
     	 int a =100;
+    	 int b=11;
 }
 
 
