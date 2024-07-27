@@ -1,6 +1,10 @@
 class emp{
    int j=30;
-   int k=11;
+
+  
+
+   int k=101;
+
     public static void main(String... args){
 
     System.out.println("welcome to svn");
